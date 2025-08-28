@@ -1,0 +1,9 @@
+-- Assignment: Introduction to Databases
+-- Author: Your Name
+-- File: answers.sql
+
+-- Q1) Create a new database called salesDB
+CREATE DATABASE salesDB;
+
+-- Q2) Drop (delete) the database called demo
+DROP DATABASE demo;
