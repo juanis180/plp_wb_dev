@@ -1,7 +1,4 @@
--- Assignment: Introduction to Databases
--- Author: Juanis180
--- File: answers.sql
-
+--week1 Assignment
 -- Q1) Create a new database called salesDB
 CREATE DATABASE salesDB;
 
